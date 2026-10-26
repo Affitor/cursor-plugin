@@ -1,0 +1,20 @@
+{
+  "name": "affitor",
+  "displayName": "Affitor",
+  "version": "0.1.0",
+  "description": "Read your Affitor affiliate program in Cursor: partners, commissions, earnings, payouts and billing. Read-only; sign in with your Affitor account.",
+  "author": {
+    "name": "Affitor",
+    "email": "hello@affitor.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "affiliate",
+    "partners",
+    "commissions",
+    "payouts",
+    "mcp",
+    "affitor"
+  ],
+  "logo": "assets/logo.svg"
+}
