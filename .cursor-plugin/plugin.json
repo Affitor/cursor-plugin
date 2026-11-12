@@ -1,12 +1,14 @@
 {
   "name": "affitor",
   "displayName": "Affitor",
-  "version": "0.1.0",
-  "description": "Read your Affitor affiliate program in Cursor: partners, commissions, earnings, payouts and billing. Read-only; sign in with your Affitor account.",
+  "version": "0.1.1",
+  "description": "Read your Affitor affiliate programs in Cursor: partners, commissions, earnings, payouts and billing. Read-only; sign in with your Affitor account.",
   "author": {
     "name": "Affitor",
     "email": "hello@affitor.com"
   },
+  "homepage": "https://affitor.com/docs/api-reference/mcp",
+  "repository": "https://github.com/Affitor/cursor-plugin",
   "license": "MIT",
   "keywords": [
     "affiliate",
